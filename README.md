@@ -8,7 +8,7 @@
 
 # Grupo
 
-- Valentin Sanchez (Legajo 203368) - Val..@gmail.com
+- Valentin Sanchez (Legajo 203368) - Val...@gmail.com
 - Adriel Sanzone (Legajo 203373) - adr...@gmail.com
 
 # Contexto / Escenario
