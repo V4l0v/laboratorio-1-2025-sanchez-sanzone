@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Valentin Sanchez (Legajo 203368) - Val..@gmail.com
+- Adriel Sanzone (Legajo 203373) - adr...@gmail.com
 
 # Contexto / Escenario
 
